@@ -1,0 +1,17 @@
+		body
+		{
+			background-color:pink;
+			background-image: url('/home/Sem6B12/Downloads/smiley.jpg');
+			background-repeat:no-repeat;
+			background-attachment:fixed;
+		}
+		h1
+		{
+			color:maroon;
+			margin-left:40px;
+		}
+		p
+		{
+			color:maroon;
+			margin-left:350px;
+		}
